@@ -1,3 +1,3 @@
 public class hello {
-	public static void main (String [args]){
+	blic static void main (String [args]){
 	}
